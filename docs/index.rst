@@ -5,7 +5,7 @@ Technology plays an important role in everyday life, from personal computers and
 
 Understanding What a Geek Squad Appointment Is
 
-.. image:: login-now.gif
+.. image:: book appointment.png
    :alt: My Project Logo
    :width: 400px
    :align: center
